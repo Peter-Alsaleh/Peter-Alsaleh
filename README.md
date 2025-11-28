@@ -76,16 +76,8 @@ DevOps Engineer passionate about building scalable cloud infrastructure and auto
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Peter-Alsaleh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    height="170" />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Alsaleh&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="170"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Peter-Alsaleh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Alsaleh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 ---
 ## 💡 Fun Facts
